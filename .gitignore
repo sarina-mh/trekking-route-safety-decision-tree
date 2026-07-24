@@ -20,3 +20,11 @@ env/
 # Editors
 .vscode/
 .idea/
+
+# MiMo agent tooling
+.mimocode/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
